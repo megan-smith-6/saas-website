@@ -2,3 +2,18 @@ html {
   background-color: #F2F2F7;
   font-family: 'Questrial', sans-serif;
 }
+
+nav {
+  color: #fff;
+  background-color: #023157;
+}
+
+footer {
+  color: #fff;
+  background-color: #023157;
+}
+
+.btn {
+  background-color: #074B81
+  color: #fff;
+}
