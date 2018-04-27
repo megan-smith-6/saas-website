@@ -20,12 +20,14 @@ a {
 .btn {
   background-color: #074b81;
   border-color: #074b81;
+  border-radius: 4px;
 }
 
 .btn:hover {
   background-color: #f2f2f7;
   border-color: #074b81;
   color: #074b81;
+  border-radius: 4px;
 }
 
 nav a:hover {
@@ -34,8 +36,15 @@ nav a:hover {
 
 #current {
   background-color: #004978;
+  border-radius: 4px;
 }
 
 .dark {
   background-color: #dfe1e8;
+}
+
+.card {
+  background-color: #dce8f7;
+  border: 2px solid #004978;
+  border-radius: 4px;
 }
