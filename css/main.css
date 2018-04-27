@@ -1,6 +1,6 @@
 html {
-  background-color: #F2F2F7;
-  font-family: 'Questrial', sans-serif;
+  background-color: #f2f2f7;
+  font-family: Questrial, sans-serif;
 }
 
 header {
@@ -18,14 +18,14 @@ a {
 }
 
 .btn {
-  background-color: #074B81;
-  border-color: #074B81;
+  background-color: #074b81;
+  border-color: #074b81;
 }
 
 .btn:hover {
-  background-color: #F2F2F7;
-  border-color: #074B81;
-  color: #074B81;
+  background-color: #f2f2f7;
+  border-color: #074b81;
+  color: #074b81;
 }
 
 #current {
@@ -33,5 +33,5 @@ a {
 }
 
 .dark {
-  background-color: #DFE1E8;
+  background-color: #dfe1e8;
 }
