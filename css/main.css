@@ -28,6 +28,10 @@ a {
   color: #074b81;
 }
 
+nav a:hover {
+  #4482e5;
+}
+
 #current {
   background-color: #004978;
 }
